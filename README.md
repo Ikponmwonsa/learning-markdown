@@ -19,7 +19,7 @@ This paragraph has some `variables` inline code.
 
 ````html
 <p>A paragraph example</p>
-[This is a google page](https://google.com)
+
 
 ```javascript let num = Math.random ();
 ````
@@ -38,4 +38,7 @@ some paragraph with text
   [this is the description]<http://www.github.com>
   
 ***break***
+
+[This is a google page](https://google.com)
+
 This is being _created_ **Friday**. ~~Saturday~~.
