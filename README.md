@@ -13,9 +13,17 @@ ________________
   1. inner number
   2. inner figure
   3. iiiii
++ let
++ to
++ under
+
+* area
+* downstairs
+* focus
+* sound
      
 #### markdown sytax 
-.............
+_____________________________
 
 
 This paragraph has some `variables` inline code.
