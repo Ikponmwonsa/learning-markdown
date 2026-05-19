@@ -54,4 +54,4 @@ some paragraph with text
 
 This is being _created_ **Friday**. ~~Saturday~~.
 
-![pciture]("C:\Users\user\Documents\WhatsApp Image 2025-04-26 at 20.59.46_38285433.jpg")
+![pciture](WhatsApp Image 2025-04-26 at 20.59.46_38285433.jpg")
