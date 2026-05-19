@@ -3,18 +3,20 @@
 ## Subheading
 
 Just a sample repo for learning the basics of Github
-********
+*************
 more text with two line breaks between
-___________
+________________
 - first time
 - second time
 - third time
 - indented
   1. inner number
   2. inner figure
+  3. iiiii
+ 
+.............
 
 
-..........
 This paragraph has some `variables` inline code.
 
 ````html
