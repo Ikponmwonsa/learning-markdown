@@ -3,9 +3,9 @@
 ## Subheading
 
 Just a sample repo for learning the basics of Github
-
+********
 more text with two line breaks between
-
+___________
 - first time
 - second time
 - third time
@@ -14,7 +14,7 @@ more text with two line breaks between
   2. inner figure
 
 
-
+..........
 This paragraph has some `variables` inline code.
 
 ````html
