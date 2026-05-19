@@ -41,10 +41,12 @@ some paragraph with text
 
 > blockquote text below the paragraph
 
-| fruti | protein | carbonhydrate|
-| **** | **** | ****|
-| content| more content | text |
-| more | more | more |
+|fruit|protein|carbonhydrate|
+|...|...|...|
+|content|more content|text|
+
+
+![markdown logo](https://markdown-here.com/img/icon256.png)
 
   [this is the description]<http://www.github.com>
   
