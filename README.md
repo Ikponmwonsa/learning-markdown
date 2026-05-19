@@ -63,3 +63,5 @@ This is being _created_ **Friday**. ~~Saturday~~.
 
 - [ ] image
 - [x]  oil
+- [x]  ratio
+- [ ]  line
