@@ -10,8 +10,8 @@ more text with two line breaks between
 - second time
 - third time
 - indented
-  1.  inner number
-  2.  inner figure
+  1. inner number
+  2. inner figure
 
   [this is the description](http://www.github.com)
 
@@ -34,4 +34,6 @@ some paragraph with text
 | content | more content | text |
 | more | more | more |
 
-This is being _ created _ ** Friday **. ~~Saturday~~.
+This is being _created_ **Friday**. ~~Saturday~~.
+***Break***
+
