@@ -19,7 +19,8 @@ This paragraph has some `variables` inline code.
 
 ````html
 <p>A paragraph example</p>
-[This is a google page](https://www.google.com)
+[This is a google page](https://google.com)
+
 ```javascript let num = Math.random ();
 ````
 
