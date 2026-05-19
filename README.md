@@ -34,6 +34,5 @@ some paragraph with text
 | content | more content | text |
 | more | more | more |
 
+***break***
 This is being _created_ **Friday**. ~~Saturday~~.
-***Break***
-
