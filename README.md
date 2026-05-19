@@ -39,6 +39,6 @@ some paragraph with text
   
 ***break***
 
-[This is a google page](https://google.com)
+<https://google.com>
 
 This is being _created_ **Friday**. ~~Saturday~~.
