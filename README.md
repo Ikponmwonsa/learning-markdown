@@ -42,7 +42,7 @@ some paragraph with text
 > blockquote text below the paragraph
 
 | fruti | protein | carbonhydrate|
-| ..... | ....... | .............|
+| **** | **** | ****|
 | content| more content | text |
 | more | more | more |
 
