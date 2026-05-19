@@ -41,9 +41,10 @@ some paragraph with text
 
 > blockquote text below the paragraph
 
-|fruit|protein|carbonhydrate|
-|...|...|...|
-|content|more content|text|
+|Name|Email|
+|---|---|
+|Ckay More|ckay.more@gmail.com|
+|Raine More|raine.more@gmail.com|
 
 ```bash
 npm install
