@@ -45,7 +45,11 @@ some paragraph with text
 |...|...|...|
 |content|more content|text|
 
+```bash
+npm install
 
+npm start
+```
 ![markdown logo](https://markdown-here.com/img/icon256.png)
 
   [this is the description]<http://www.github.com>
