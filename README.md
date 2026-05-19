@@ -41,9 +41,9 @@ some paragraph with text
 
 > blockquote text below the paragraph
 
-| heading | header | head |
-| ... | ... | ...|
-| content | more content | text |
+| fruti | protein | carbonhydrate|
+| ..... | ....... | .............|
+| content| more content | text |
 | more | more | more |
 
   [this is the description]<http://www.github.com>
